@@ -1,6 +1,6 @@
 # Lab2Web
-###RONY ELTOM ATIBMAN
-###TI.20.D.1
+### RONY ELTOM ATIBMAN
+### TI.20.D.1
 
 
 
@@ -38,3 +38,4 @@ kemudian  simpan kembali dan refresh browser untuk melihat perubahannya.
 
 # pertanyaan dan tugas
 ### 1. lakukan EKsperimen dengan mengubah dengan nilai dan menambah properti dan nilai pada kode CSS dnegan mengacu pada CSS Cheat sheet yang di berikan pada file terpisah yang diberikan pada file terpisah dari modul ini 
+

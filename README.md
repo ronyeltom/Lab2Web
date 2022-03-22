@@ -8,6 +8,5 @@ ini adalah tampilannya
 hasil pengabilan gambar
 ![Gambar 2](screenshot/s1.png)
 selanjutnya buka pada web browser melihat hasilnnya
-2. mendeklarasikan CSS Internal <br>
-
-kemudian 
+![Gambar 3](screenshot/s2.png)
+<b>2. Mendekklarasi CSS Internal</b>

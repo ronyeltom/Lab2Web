@@ -38,4 +38,20 @@ kemudian  simpan kembali dan refresh browser untuk melihat perubahannya.
 
 # pertanyaan dan tugas
 ### 1. lakukan EKsperimen dengan mengubah dengan nilai dan menambah properti dan nilai pada kode CSS dnegan mengacu pada CSS Cheat sheet yang di berikan pada file terpisah yang diberikan pada file terpisah dari modul ini 
+* saya melakukan beberapa experimen seperti mengubah nilai yang hasilnya mengubah ukuran ataupun warna dan mengganti bacground
+![Gambar 12](screenshot/nomor.png)
 
+### 2. apa perbedaan pendeklarasian CSS elemen h1{...} dengan #intro h1{...}? berikan penjelasan
+* Pendeklarasian CSS elemen h1 mengubah tampilan seleuruh elemen yang memiliki tag h1, sedangkan #intro h1 hanya mengubah tampilan elemen h1 yang memiliki #intro h1.
+
+### 3. apabila ada deklarasi CSS secara INternal, lalu ditmabahkan CSS eksternal dan inline CSS pada elemen sama. deklarasi manakah yang akan di tampilkan pada browser? berikan penjelasan dan contohnya!
+*setelah saya mencoba, jika mendeklarasi CSS pada elemen yang sama namun dengan isi deklarasi berbeda, maka semua dekalarasi CSS tersebut akan ditampilkan. contohnya :
+![Gambar 13]
+![Gambar 14]
+
+* Namun jika isi dari ketiga deklarasi CSSnya sama semua, maka browser hanya menampilkan salah satunnya, dengan urutan inline CSS, Eksternal CSS, dan yang terakhir Internal CSS.
+![Gambar]
+
+### 4. pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan di tampilkan pada browser? berikan penjelasan dan contohnya!
+* kedua deklarasi tersebut akan tampil, namun selector ID yang akan tammpiljika deklarasinya ada yang sama antara ID dan Class.
+![Gmbar]

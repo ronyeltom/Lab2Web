@@ -45,13 +45,13 @@ kemudian  simpan kembali dan refresh browser untuk melihat perubahannya.
 * Pendeklarasian CSS elemen h1 mengubah tampilan seleuruh elemen yang memiliki tag h1, sedangkan #intro h1 hanya mengubah tampilan elemen h1 yang memiliki #intro h1.
 
 ### 3. apabila ada deklarasi CSS secara INternal, lalu ditmabahkan CSS eksternal dan inline CSS pada elemen sama. deklarasi manakah yang akan di tampilkan pada browser? berikan penjelasan dan contohnya!
-*setelah saya mencoba, jika mendeklarasi CSS pada elemen yang sama namun dengan isi deklarasi berbeda, maka semua dekalarasi CSS tersebut akan ditampilkan. contohnya :
-![Gambar 13]
-![Gambar 14]
+* setelah saya mencoba, jika mendeklarasi CSS pada elemen yang sama namun dengan isi deklarasi berbeda, maka semua dekalarasi CSS tersebut akan ditampilkan. contohnya :
+![Gambar 13](screenshot/nomor1a.png)
+![Gambar 14](screenshot/nomor1b.png)
 
 * Namun jika isi dari ketiga deklarasi CSSnya sama semua, maka browser hanya menampilkan salah satunnya, dengan urutan inline CSS, Eksternal CSS, dan yang terakhir Internal CSS.
-![Gambar]
+![Gambar](screenshot/nomor1c.png)
 
 ### 4. pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan di tampilkan pada browser? berikan penjelasan dan contohnya!
 * kedua deklarasi tersebut akan tampil, namun selector ID yang akan tammpiljika deklarasinya ada yang sama antara ID dan Class.
-![Gmbar]
+![Gmbar](screenshot/nomor4.png)
